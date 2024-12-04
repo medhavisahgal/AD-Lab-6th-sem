@@ -34,7 +34,6 @@ public class Product {
             System.out.println("Total Price: " + (products[i].price * products[i].quantity));
             System.out.println("----------------------------------");
         }
-        //total price
         System.out.println("Your total bill is : "+ tt);
     }
 }
